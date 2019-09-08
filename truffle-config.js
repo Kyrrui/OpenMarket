@@ -15,6 +15,7 @@ const configNetwok = (network, networkId, path = "m/44'/60'/0'/0/", gas = 446503
   gasPrice,
 });
 
+
 module.exports = {
   // See <http://truffleframework.com/docs/advanced/configuration>
   // to customize your Truffle configuration!

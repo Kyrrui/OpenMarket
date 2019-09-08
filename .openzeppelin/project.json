@@ -1,7 +1,9 @@
 {
   "manifestVersion": "2.2",
   "contracts": {
-    "Counter": "Counter"
+    "Counter": "Counter",
+    "DAI": "DAI",
+    "OpenMarket": "OpenMarket"
   },
   "dependencies": {},
   "name": "starter-kit-gsn",
